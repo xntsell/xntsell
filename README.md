@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Chrisella! 👋
 
 <!--
 **xntsell/xntsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![waguri](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN3c21vemx3MWZxcjhrY2s5ZHJicmV0cm41eWdnZXZ1eGlhNHUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDkiN4U3BWQbyuhRCT/giphy.gif)
