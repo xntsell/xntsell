@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN3c21vemx3MWZxcjhrY2s5ZHJicmV0cm41eWdnZXZ1eGlhNHUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDkiN4U3BWQbyuhRCT/giphy.gif"  />
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN3c21vemx3MWZxcjhrY2s5ZHJicmV0cm41eWdnZXZ1eGlhNHUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDkiN4U3BWQbyuhRCT/giphy.gif" alt="wakaguri"  width=200%/>
+</div>
 
 <br/>
 
